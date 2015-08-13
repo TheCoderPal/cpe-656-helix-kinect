@@ -1,0 +1,1 @@
+This project is for UAHuntsville CPE 656 Fall 2011-Spring 2012 to use the Kinect camera to control a C#/XNA/WPF 3D globe.
